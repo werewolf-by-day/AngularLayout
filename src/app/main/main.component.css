@@ -1,0 +1,19 @@
+h4 {
+	vertical-align: top;
+	margin: 0px;
+}
+
+div {
+	margin: 20px;
+	border: 2px solid black;
+	background-color: #81a8f7;
+	display: inline-block;
+	width: 545px;
+	height: 500px;
+	padding: 5px 0px 0px 10px;
+}
+
+p {
+	font-weight: bold;
+	margin: 20px;
+}
